@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estiqanita
 - 👀 I’m interested in information technology, history, sociology, psychology, and anime.
-- 🌱 I’m currently learning programmingf
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
